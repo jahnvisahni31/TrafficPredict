@@ -2,6 +2,11 @@
 
 This project utilizes PySpark to analyze and predict traffic flow patterns based on available datasets.
 
+## flowchart
+
+![Flowchart Description](traffic_flowchart.png)
+
+
 ## Project Description
 
 The notebook includes the following key components:
